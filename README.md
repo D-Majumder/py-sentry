@@ -48,8 +48,8 @@ pip install psutil
 ### Installation
 
 ```bash
-git clone https://github.com/D-Majumder/PySentry.git
-cd PySentry
+git clone https://github.com/D-Majumder/py-sentry.git
+cd py-sentry
 ```
 
 ### Usage
